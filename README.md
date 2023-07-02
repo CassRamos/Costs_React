@@ -1,3 +1,44 @@
+<h1 align="center"> Costs </h1>
+
+<p align="center">
+A simple application using React.js with a local database. <br/>
+</p>
+
+<p align="center">
+  <a href="#-tecnologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
+<p align="center">
+  <img alt="Costs" src="./src/img/homepage_image.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+## 🚀 Tecnologies
+
+This project was developed with the following technologies:
+
+- HTML & CSS
+- JavaScript
+- Git & Github
+- React.js
+
+## 💻 Project
+
+The Costs is an app responsible for the creation of projects and their services
+
+
+## :memo: License
+
+This project is under license from MIT
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -13,6 +54,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### `npm run backend`
+
+Runs the local database
+Open [http://localhost:5000/projects](http://localhost:5000/projects), to acess all the projects
 
 ### `npm test`
 
@@ -68,3 +114,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
